@@ -84,6 +84,12 @@
 	border: 10px solid blue;
 	height: 90%;
 }
+.red:nth-child(3) .blue:nth-child(1){
+	width: 25%;
+}
+.red:nth-child(3) .blue:nth-child(2){
+	width: 70%;
+}
 
 
 
